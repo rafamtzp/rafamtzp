@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+world.++I'm+Rafael.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=51F74C&width=435&lines=Hello%2C+world.++I'm+Rafael+%3A\))](https://git.io/typing-svg)
 
 <!--
 **rafamtzp/rafamtzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 I'm a software developer and student at 42 Málaga Fundación Telefónica. 👨‍💻🎓
 
-I'm currently on milestone 4 in 42's Common Core (the 5th out of 7 milestones) and have completed many interesting projects (mostly about systems programming in C) that have helped me learn a lot and hone my programming skills.
+I'm currently on milestone 4 in 42's Common Core (the 5th out of 7 milestones) and have completed many interesting projects (mostly about **systems programming in C**) that have helped me learn a lot and hone my programming skills.  Before that I took Harvard's iconic CS50x and took courses on LinkedIn Learning which introduced me to C, Python, and web technologies such as Flask and SQL.
 
-Outside of coding, you may see me doing rock climbing 🧗, playing jazz on my trumpet 🎺, or chill gaming 🎮.
+Outside of coding, you may likely see me doing rock climbing 🧗, playing jazz on my trumpet 🎺, or having a chill gaming session 🎮.
+
+---
 
 ### My Projects at 42 🖥️
 
@@ -29,37 +31,13 @@ I've also really enjoyed making a project called **so_long** since it's the firs
 
 Although most of the projects so far have been in C, I've recently dove into the world of **Object-Oriented Programming** in **C++** and will be doing some projects in this language in the future. 
 
-**Note:** All of the coding-related projects I've done at 42 can be found here as repositories.  Although there are some projects I've done and am currently doing at 42 that aren't coding-related and hence won't be able to include them. Namely:
-1. BornToBeRoot - A project involving setting up and configuring a Debian server on a virtual machine;
-2. NetPractice (currently doing) - A project where you learn about setting up computer networks by completing 10 progressive networking levels;
-3. My solutions for the exams at 42.
-
 > 💡 **Note**  
 > All of the coding-related projects I've done at 42 can be found here as repositories.  
 > Some non-coding projects won’t appear here, such as:
-> 1. BornToBeRoot – Debian server setup on a VM  
-> 2. NetPractice – Networking exercises  
-> 3. My exam solutions
+> 1. Born2Beroot – Debian server setup and configuration on a virtual machine
+> 2. NetPractice – Computer Networking exercises  
+> 3. My solutions for exams at 42
 
----
-### My Progress at 42 📊
-> Any percentages above a hundred are a result of doing and passing the bonus.
-
-| Milestone 🎯 | Project 🔨 | Score 🏆 |
-|---|---|---|
-| 0️⃣ | libft | 125% ✅ |
-| 1️⃣ | ft_printf | 100% ✅ |
-|  | get_next_line | 100% ✅ |
-|  | Born2beroot | 100% ✅ |
-| 2️⃣ | push_swap | 100% ✅ |
-|  | minitalk | 125% ✅ |
-|  | so_long | 100% ✅ |
-|  | Exam Rank 02 | 100% ✅ |
-| 3️⃣ | Philosophers | 100% ✅ |
-|  | minishell | 100% ✅ |
-| | Exam Rank 03 | 100% ✅ |
-| 4️⃣ | C++ Modules 0-4 | 99%, 95%, 100%, 80%, 100% ✅|
-| | Exam Rank 04 | 100% ✅ |
 
 ---
 ### Tech Stack 👨‍💻
@@ -69,5 +47,28 @@ Although most of the projects so far have been in C, I've recently dove into the
 | Tools and platforms | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 | Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)|
 
+> You can also find me on
+> 
+> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-martinez-1a7879313/)
+> [![42](https://img.shields.io/badge/ramarti2-white.svg?style=for-the-badge&logo=42&logoColor=black)](https://profile-v3.intra.42.fr/users/ramarti2)
+
 ---
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+### My Progress at 42 📈
+> Any percentages above a hundred are a result of doing and passing the bonus.
+
+| Milestone 🎯 | Project 🔨 | Score 🏆 |
+|---|---|---|
+| 0 | libft | 125% ✅ |
+| 1 | ft_printf | 100% ✅ |
+|  | get_next_line | 100% ✅ |
+|  | Born2beroot | 100% ✅ |
+| 2 | push_swap | 100% ✅ |
+|  | minitalk | 125% ✅ |
+|  | so_long | 100% ✅ |
+|  | Exam Rank 02 | 100% ✅ |
+| 3 | Philosophers | 100% ✅ |
+|  | minishell | 100% ✅ |
+| | Exam Rank 03 | 100% ✅ |
+| 4 | C++ Modules 0-4 | 99%, 95%, 100%, 80%, 100% ✅|
+| | Exam Rank 04 | 100% ✅ |
+
