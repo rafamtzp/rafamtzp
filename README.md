@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4141&width=435&lines=Hello%2C+world.++I'm+Rafael+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=FF4141&width=435&lines=Hello%2C+world.++I'm+Rafael+%3A\))](https://git.io/typing-svg)
 
 <!--
 **rafamtzp/rafamtzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
