@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I'm a software developer and student at 42 Málaga Fundación Telefónica. 👨‍💻🎓
 
-I'm currently on milestone 4 in 42's Common Core (the 5th out of 7 milestones) and have completed many interesting projects (mostly about **systems programming in C**) that have helped me learn a lot and hone my programming skills.  Before that I took Harvard's iconic CS50x and took courses on LinkedIn Learning which introduced me to C, Python, and web technologies such as Flask and SQL.
+I'm currently on milestone 5 in 42's Common Core (the 6th out of 7 milestones) and have completed many interesting projects (mostly about **systems programming in C**) that have helped me learn a lot and hone my programming skills.  Before that I took Harvard's iconic CS50x and took courses on LinkedIn Learning which introduced me to C, Python, and web technologies such as Flask and SQL.
 
 Outside of coding, you may likely see me doing rock climbing 🧗, playing jazz on my trumpet 🎺, or having a chill gaming session 🎮.
 
@@ -27,7 +27,7 @@ Outside of coding, you may likely see me doing rock climbing 🧗, playing jazz 
 
 The longest and most rewarding project I've done so far is a one called **minishell**, which consists in writing your own implementation of a bash-inspired shell.  This project has been the most challenging in the cursus so far and it touches many areas of of systems programming in C.  Namely concurrent programming, inter-process communication via UNIX pipes, complex parsing of bash-like user input, handling file descriptors, memory, exit statuses, environment variables, and more!
 
-I've also really enjoyed making a project called **so_long** since it's the first video game I've ever written and because I found the behind-the-scenes process of discovering how to make a very simple 2D game quite interesting.
+I've also really enjoyed making graphical projects such as **so_long** and **cub3D**.  The former was my first ever video game ever written in a 2D tile-based grid whereas the latter was my first 3D Wolfenstein 3D-esque raycaster.  I found it fun to discover the mechanisms that work under the hood (and often take for granted) that make the video games possible.
 
 Although most of the projects so far have been in C, I've recently dove into the world of **Object-Oriented Programming** in **C++** and will be doing some projects in this language in the future. 
 
@@ -71,4 +71,7 @@ Although most of the projects so far have been in C, I've recently dove into the
 | | Exam Rank 03 | 100% ✅ |
 | 4 | C++ Modules 0-4 | 99%, 95%, 100%, 80%, 100% ✅|
 | | Exam Rank 04 | 100% ✅ |
+| | NetPractice | 100% ✅ |
+| | cub3D | 120% ✅ |
+| 5 | 🚧 Work in progress...🚧 | 🏗️ |
 
