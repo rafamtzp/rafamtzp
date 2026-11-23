@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 I'm a software developer and student at 42 Málaga Fundación Telefónica. 👨‍💻🎓
 
-I'm currently on milestone 5 in 42's Common Core (the 6th out of 7 milestones) and have completed many interesting projects (mostly about **systems programming in C**) that have helped me learn a lot and hone my programming skills.  Before that I took Harvard's iconic CS50x and took courses on LinkedIn Learning which introduced me to C, Python, and web technologies such as Flask and SQL.
+I'm currently on the last milestone in 42's Common Core and have completed many interesting projects (mostly about **systems programming in C/C++**) that have helped me learn a lot and hone my programming skills.  Before that I took Harvard's iconic CS50x and took courses on LinkedIn Learning which introduced me to C, Python, and web technologies such as Flask and SQL.
 
-Outside of coding, you may likely see me doing rock climbing 🧗, playing jazz on my trumpet 🎺, or having a chill gaming session 🎮.
+Outside of coding, you may likely see me doing rock climbing 🧗, playing jazz on my trumpet 🎺, or playing retro games 🎮.
 
 ---
 
@@ -29,7 +29,9 @@ The longest and most rewarding project I've done so far is a one called **minish
 
 I've also really enjoyed making graphical projects such as **so_long** and **cub3D**.  The former was my first ever video game ever written in a 2D tile-based grid whereas the latter was my first 3D Wolfenstein 3D-esque raycaster.  I found it fun to discover the mechanisms that work under the hood (and often take for granted) that make the video games possible.
 
-Although most of the projects so far have been in C, I've recently dove into the world of **Object-Oriented Programming** in **C++** and will be doing some projects in this language in the future. 
+Most of my projects have been in C but I've also done lots of exercises in **C++** which introduced me to the world of **Object-Oriented Programming**.  I've also used my C++ skills to develop an IRC server as a group project.
+
+I'm also diving into new technologies by learning about Java with Angular for my final project after having just completed my first Docker project.
 
 > 💡 **Note**  
 > All of the coding-related projects I've done at 42 can be found here as repositories.  
@@ -44,8 +46,8 @@ Although most of the projects so far have been in C, I've recently dove into the
 | | Experience with |
 |---|---|
 | Languages | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|
-| Tools and platforms | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
-| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)|
+| Tools and platforms | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)|
+| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 > You can also find me on
 > 
@@ -73,5 +75,8 @@ Although most of the projects so far have been in C, I've recently dove into the
 | | Exam Rank 04 | 100% ✅ |
 | | NetPractice | 100% ✅ |
 | | cub3D | 120% ✅ |
-| 5 | 🚧 Work in progress...🚧 | 🏗️ |
+| 5 | C++ Modules 5-9 | all 100% ✅ |
+| | Exam Rank 05 | 100% ✅|
+| | Inception | 100% ✅|
+| 6 | 🚧 Work in progress.. 🚧 | 🏗️ |
 
